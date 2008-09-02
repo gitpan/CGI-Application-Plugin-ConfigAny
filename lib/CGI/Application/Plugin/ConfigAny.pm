@@ -12,11 +12,11 @@ CGI::Application::Plugin::ConfigAny - Add Config::Any Support to CGI::Applicatio
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-$CGI::Application::Plugin::ConfigAny::VERSION = '0.01';
+$CGI::Application::Plugin::ConfigAny::VERSION = '0.02';
 
 $CGI::Application::Plugin::ConfigAny::DEBUG = 0;
 
@@ -495,7 +495,7 @@ __END__
 
 =head1 AUTHOR
 
-Bianka Martinovic, C<< <Bianka.Martinovic at materna.de> >>
+Bianka Martinovic, C<< <mab at cpan.org> >>
 
 =head1 BUGS
 
